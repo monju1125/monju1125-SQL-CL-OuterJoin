@@ -1,0 +1,1 @@
+SELECT * FROM class RIGHT JOIN textbook ON class.class_title = textbook.cl
